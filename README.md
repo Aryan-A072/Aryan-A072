@@ -6,6 +6,7 @@
 - Tools: Git, GitHub, VS Code
 - Databases: MongoDB, MySQL, PostgreSQL
 - Frameworks: jQuery, Node.js, Express, React.js, TensorFlow
+- FrontEnd: HTML, CSS, Bootstrap, JS, jQuery, React.js
 
 ## 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/dev-aryan-aggarwal) • [Portfolio](https://aa-portofolio-uit.vercel.app/) • [Email](aryan.agg72@gmail.com)
