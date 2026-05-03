@@ -3,10 +3,11 @@
 
 ## 🧰 Tech Stack
 - Languages: C, Java, Python, JavaScript
+- Libraries: React JS
 - Tools: Git, GitHub, VS Code
 - Databases: MongoDB, MySQL, PostgreSQL
-- Frameworks: jQuery, Node.js, Express, React.js, TensorFlow
-- FrontEnd: HTML, CSS, Bootstrap, JS, jQuery, React.js
+- Frameworks: jQuery, Node.js, Express, Tailwindcss
+- FrontEnd: HTML, CSS, Bootstrap, Tailwindcss, JS, jQuery, React
 
 ## 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/dev-aryan-aggarwal) • [Portfolio](https://aa-portofolio-uit.vercel.app/) • [Email](aryan.agg72@gmail.com)
