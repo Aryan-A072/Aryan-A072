@@ -4,7 +4,7 @@
 ## 🧰 Tech Stack
 - Languages: C, Java, Python, JavaScript, HTML, CSS, TypeScript, PHP
 - Libraries: jQuery, React JS
-- Databases: MongoDB, MySQL, PostgreSQL
+- Databases: MongoDB, MySQL
 - Version Control/Editor: Git, GitHub, Vercel, VS Code
 - Frameworks: Express.js, Bootstrap, Tailwindcss
 - Runtime Environment: Node.js
